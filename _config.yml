@@ -16,8 +16,8 @@
 title: whiteglass theme
 author: Yous
 description: Minimal, responsive Jekyll theme for hackers.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://yous.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/blog" # the subpath of your site, e.g. /blog
+#url: "https://yous.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 host: "0.0.0.0"
 
 lang: en
